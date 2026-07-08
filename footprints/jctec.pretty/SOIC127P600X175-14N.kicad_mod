@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -0.425 -5.435 0)
 		(layer "F.SilkS")
-		(uuid "366828ef-b0d5-44ab-98c9-35ef52330dda")
+		(uuid "322d48d8-ba6c-4149-a6dc-d5eca68879a6")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "SOIC127P600X175-14N"
 		(at 0 6.2 0)
 		(layer "F.Fab")
-		(uuid "2603fda5-cf8f-47e3-84af-56e2411297c8")
+		(uuid "74046cb9-ca00-4a99-9396-6bd162306e8b")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "320e5588-197a-44ff-9c70-d854841dc934")
+		(uuid "580b8aff-c069-4d4b-870d-d91c9ef9f17f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0403fce2-8bdb-49f7-93c1-6e423c18bcd6")
+		(uuid "95b9fe4b-82de-46ed-8c2c-f3edd4c1eb9b")
 		(effects
 			(font
 				(size 1.27 1.27)
