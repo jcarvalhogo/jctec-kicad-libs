@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "T113-S3 Li-easyedapro") (type "KiCad") (uri "/home/jcarvalho/development/pessoal/embedded/jctec-kicad-libs/symbols/PM-TS3F427.kicad_sym") (options "") (descr ""))
+)
