@@ -2924,8 +2924,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11040_1x40-1MP_P0.5mm_Horizontal"
+			(at 6.35 0 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -3368,42 +3368,6 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -55.88 0)
-				(length 7.62)
-				(name "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 -58.42 0)
-				(length 7.62)
-				(name "42"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
 				(at -12.7 -30.48 0)
 				(length 7.62)
 				(name "32"
@@ -3414,6 +3378,42 @@
 					)
 				)
 				(number "HSYNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -55.88 0)
+				(length 7.62)
+				(name "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -58.42 0)
+				(length 7.62)
+				(name "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3756,8 +3756,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11050_1x50-1MP_P0.5mm_Horizontal"
+			(at 8.89 -3.81 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -4254,42 +4254,6 @@
 				)
 			)
 			(pin input line
-				(at -11.43 -67.31 0)
-				(length 7.62)
-				(name "51"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -11.43 -69.85 0)
-				(length 7.62)
-				(name "52"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
 				(at -11.43 36.83 0)
 				(length 7.62)
 				(name "11"
@@ -4390,6 +4354,42 @@
 					)
 				)
 				(number "MODE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -67.31 0)
+				(length 7.62)
+				(name "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -69.85 0)
+				(length 7.62)
+				(name "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP"
 					(effects
 						(font
 							(size 1.27 1.27)
