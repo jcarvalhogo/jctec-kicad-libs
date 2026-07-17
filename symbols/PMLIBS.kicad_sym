@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at -62.23 -49.53 0)
+			(at -60.96 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -75,7 +75,7 @@
 			)
 		)
 		(symbol "ATK_T11i_CORE_1_1"
-			(pin power_in line
+			(pin passive line
 				(at -48.26 -45.72 90)
 				(length 5.08)
 				(name "VCC3V3_CORE"
@@ -93,7 +93,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -45.72 -45.72 90)
 				(length 5.08)
 				(name "VCC3V3_CORE"
@@ -111,7 +111,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -43.18 -45.72 90)
 				(length 5.08)
 				(name "VCC3V3_CORE"
@@ -129,7 +129,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -40.64 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -147,7 +147,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -38.1 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -165,7 +165,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -35.56 -45.72 90)
 				(length 5.08)
 				(name "MICIN3_P"
@@ -183,7 +183,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -33.02 -45.72 90)
 				(length 5.08)
 				(name "MICIN3_N"
@@ -201,7 +201,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -30.48 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -219,7 +219,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -27.94 -45.72 90)
 				(length 5.08)
 				(name "MIC-DET"
@@ -237,7 +237,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -25.4 -45.72 90)
 				(length 5.08)
 				(name "HBIAS"
@@ -255,7 +255,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -22.86 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -273,7 +273,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -20.32 -45.72 90)
 				(length 5.08)
 				(name "HPOUTL"
@@ -291,7 +291,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -17.78 -45.72 90)
 				(length 5.08)
 				(name "HPOUTFB"
@@ -309,7 +309,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -15.24 -45.72 90)
 				(length 5.08)
 				(name "HPOUTR"
@@ -327,7 +327,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -12.7 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -345,7 +345,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -10.16 -45.72 90)
 				(length 5.08)
 				(name "HP-DET"
@@ -363,7 +363,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -7.62 -45.72 90)
 				(length 5.08)
 				(name "FEL"
@@ -381,7 +381,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -5.08 -45.72 90)
 				(length 5.08)
 				(name "NMI"
@@ -399,7 +399,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -2.54 -45.72 90)
 				(length 5.08)
 				(name "RESET"
@@ -417,7 +417,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 0 -45.72 90)
 				(length 5.08)
 				(name "PWR_ON"
@@ -435,7 +435,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 2.54 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -453,7 +453,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 5.08 -45.72 90)
 				(length 5.08)
 				(name "PC1_UART2_RX"
@@ -471,7 +471,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 7.62 -45.72 90)
 				(length 5.08)
 				(name "PC0_UART2_TX"
@@ -489,7 +489,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 10.16 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -507,7 +507,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 12.7 -45.72 90)
 				(length 5.08)
 				(name "PF6_SDC0-DET"
@@ -525,7 +525,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 15.24 -45.72 90)
 				(length 5.08)
 				(name "PF0_SDC0-D1"
@@ -543,7 +543,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 17.78 -45.72 90)
 				(length 5.08)
 				(name "PF1_SDC0-D0"
@@ -561,7 +561,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 20.32 -45.72 90)
 				(length 5.08)
 				(name "PF2_SDC0-CLK"
@@ -579,7 +579,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 22.86 -45.72 90)
 				(length 5.08)
 				(name "PF3_SDC0-CMD"
@@ -597,7 +597,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 25.4 -45.72 90)
 				(length 5.08)
 				(name "PF4_SDC0-D3"
@@ -615,7 +615,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 27.94 -45.72 90)
 				(length 5.08)
 				(name "PF5_SDC0-D2"
@@ -633,7 +633,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 30.48 -45.72 90)
 				(length 5.08)
 				(name "GND"
@@ -651,7 +651,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 33.02 -45.72 90)
 				(length 5.08)
 				(name "PG18_UART0_RX"
@@ -669,7 +669,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 35.56 -45.72 90)
 				(length 5.08)
 				(name "PG17_UART0_TX"
@@ -687,7 +687,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 38.1 -45.72 90)
 				(length 5.08)
 				(name "PG16_USB_ID"
@@ -705,7 +705,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 40.64 -45.72 90)
 				(length 5.08)
 				(name "PG15_SPK_CTRL"
@@ -723,7 +723,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 43.18 -45.72 90)
 				(length 5.08)
 				(name "PG14_GMAC_RSTn_L"
@@ -741,7 +741,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 45.72 -45.72 90)
 				(length 5.08)
 				(name "PG13_I2C0-SDA"
@@ -759,7 +759,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 48.26 -45.72 90)
 				(length 5.08)
 				(name "PG12_I2C0-SCL"
@@ -777,7 +777,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 50.8 -45.72 90)
 				(length 5.08)
 				(name "PG11_LCD_RST"
@@ -795,7 +795,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -38.1 180)
 				(length 5.08)
 				(name "PG10_PWM3"
@@ -813,7 +813,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -35.56 180)
 				(length 5.08)
 				(name "PG9_I2C1-SDA"
@@ -831,7 +831,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -33.02 180)
 				(length 5.08)
 				(name "PG8_I2C1-SCL"
@@ -849,7 +849,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -30.48 180)
 				(length 5.08)
 				(name "PG7_UART1_RX"
@@ -867,7 +867,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -27.94 180)
 				(length 5.08)
 				(name "PG6_UART1_TX"
@@ -885,7 +885,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -25.4 180)
 				(length 5.08)
 				(name "PG5_UART5_RX"
@@ -903,7 +903,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -22.86 180)
 				(length 5.08)
 				(name "PG4_UART5_TX"
@@ -921,7 +921,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -20.32 180)
 				(length 5.08)
 				(name "PG3_UART4_RX"
@@ -939,7 +939,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -17.78 180)
 				(length 5.08)
 				(name "PG2_UART4_TX"
@@ -957,7 +957,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -15.24 180)
 				(length 5.08)
 				(name "PG1_CT_RST"
@@ -975,7 +975,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 -12.7 180)
 				(length 5.08)
 				(name "PG0_CT_INT"
@@ -993,7 +993,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 73.66 -10.16 180)
 				(length 5.08)
 				(name "GND"
@@ -1011,7 +1011,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 73.66 -7.62 180)
 				(length 5.08)
 				(name "PE17_I2C3-SDA"
@@ -1029,7 +1029,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 73.66 -5.08 180)
 				(length 5.08)
 				(name "PE16_I2C3-SCL"
@@ -1047,7 +1047,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 73.66 -2.54 180)
 				(length 5.08)
 				(name "PE15_GMAC_RXCLK"
@@ -1065,7 +1065,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 73.66 0 180)
 				(length 5.08)
 				(name "PE14_GMAC_RXD3"
@@ -1083,7 +1083,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 2.54 180)
 				(length 5.08)
 				(name "PE13_GMAC_RXD2"
@@ -1101,7 +1101,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 5.08 180)
 				(length 5.08)
 				(name "PE12_GMAC_TXD3"
@@ -1119,7 +1119,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 7.62 180)
 				(length 5.08)
 				(name "PE11_GMAC_TXD2"
@@ -1137,7 +1137,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 10.16 180)
 				(length 5.08)
 				(name "PE10_GMAC_INT"
@@ -1155,7 +1155,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 12.7 180)
 				(length 5.08)
 				(name "PE9_GMAC_MDIO"
@@ -1173,7 +1173,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 15.24 180)
 				(length 5.08)
 				(name "PE8_GMAC_MDC"
@@ -1191,7 +1191,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 17.78 180)
 				(length 5.08)
 				(name "PE7_GMAC_MCLK"
@@ -1209,7 +1209,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 20.32 180)
 				(length 5.08)
 				(name "PE6_GMAC_TXEN"
@@ -1227,7 +1227,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 22.86 180)
 				(length 5.08)
 				(name "PE5_GMAC_TXD1"
@@ -1245,7 +1245,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 25.4 180)
 				(length 5.08)
 				(name "PE4_GMAC_TXD0"
@@ -1263,7 +1263,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 27.94 180)
 				(length 5.08)
 				(name "PE3_GMAC_TXCLK"
@@ -1281,7 +1281,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 30.48 180)
 				(length 5.08)
 				(name "PE2_GMAC_RXD1"
@@ -1299,7 +1299,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 33.02 180)
 				(length 5.08)
 				(name "PE1_GMAC_RXD0"
@@ -1317,7 +1317,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 73.66 35.56 180)
 				(length 5.08)
 				(name "PE0_GMAC_RXEN"
@@ -1335,7 +1335,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 50.8 44.45 270)
 				(length 5.08)
 				(name "PD22"
@@ -1353,7 +1353,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 48.26 44.45 270)
 				(length 5.08)
 				(name "PD21_LCD-VSYNC"
@@ -1371,7 +1371,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 45.72 44.45 270)
 				(length 5.08)
 				(name "PD20_LCD-HSYNC"
@@ -1389,7 +1389,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 43.18 44.45 270)
 				(length 5.08)
 				(name "GND"
@@ -1407,7 +1407,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 40.64 44.45 270)
 				(length 5.08)
 				(name "PD0_LCD-DATA2"
@@ -1425,7 +1425,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 38.1 44.45 270)
 				(length 5.08)
 				(name "PD1_LCD-DATA3"
@@ -1443,7 +1443,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 35.56 44.45 270)
 				(length 5.08)
 				(name "PD2_LCD-DATA4"
@@ -1461,7 +1461,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 33.02 44.45 270)
 				(length 5.08)
 				(name "PD3_LCD-DATA5"
@@ -1479,7 +1479,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 30.48 44.45 270)
 				(length 5.08)
 				(name "PD4_LCD-DATA6"
@@ -1497,7 +1497,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 27.94 44.45 270)
 				(length 5.08)
 				(name "PD5_LCD-DATA7"
@@ -1515,7 +1515,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 25.4 44.45 270)
 				(length 5.08)
 				(name "PD6_LCD-DATA10"
@@ -1533,7 +1533,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 22.86 44.45 270)
 				(length 5.08)
 				(name "PD7_LCD-DATA11"
@@ -1551,7 +1551,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 20.32 44.45 270)
 				(length 5.08)
 				(name "PD8_LCD-DATA12"
@@ -1569,7 +1569,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 17.78 44.45 270)
 				(length 5.08)
 				(name "PD9_LCD-DATA13"
@@ -1587,7 +1587,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 15.24 44.45 270)
 				(length 5.08)
 				(name "GND"
@@ -1605,7 +1605,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 12.7 44.45 270)
 				(length 5.08)
 				(name "PD10_LCD-DATA14"
@@ -1623,7 +1623,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 10.16 44.45 270)
 				(length 5.08)
 				(name "PD11_LCD-DATA15"
@@ -1641,7 +1641,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 7.62 44.45 270)
 				(length 5.08)
 				(name "PD12_LCD-DATA18"
@@ -1659,7 +1659,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 5.08 44.45 270)
 				(length 5.08)
 				(name "PD13_LCD-DATA19"
@@ -1677,7 +1677,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 2.54 44.45 270)
 				(length 5.08)
 				(name "PD14_LCD-DATA20"
@@ -1695,7 +1695,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 0 44.45 270)
 				(length 5.08)
 				(name "PD15_LCD-DATA21"
@@ -1713,7 +1713,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -2.54 44.45 270)
 				(length 5.08)
 				(name "PD16_LCD-DATA22"
@@ -1731,7 +1731,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -5.08 44.45 270)
 				(length 5.08)
 				(name "PD17_LCD-DATA23"
@@ -1749,7 +1749,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -7.62 44.45 270)
 				(length 5.08)
 				(name "PD18_LCD-CLK"
@@ -1767,7 +1767,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -10.16 44.45 270)
 				(length 5.08)
 				(name "PD19_LCD-DE"
@@ -1785,7 +1785,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -12.7 44.45 270)
 				(length 5.08)
 				(name "GND"
@@ -1803,7 +1803,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -15.24 44.45 270)
 				(length 5.08)
 				(name "PB2_CAN0_TX"
@@ -1821,7 +1821,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -17.78 44.45 270)
 				(length 5.08)
 				(name "PB3_CAN0_RX"
@@ -1839,7 +1839,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -20.32 44.45 270)
 				(length 5.08)
 				(name "PB4_CAN1_TX"
@@ -1857,7 +1857,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -22.86 44.45 270)
 				(length 5.08)
 				(name "PB5_CAN1_RX"
@@ -1875,7 +1875,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -25.4 44.45 270)
 				(length 5.08)
 				(name "PB6_UART3_TX"
@@ -1893,7 +1893,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -27.94 44.45 270)
 				(length 5.08)
 				(name "PB7_UART3_RX"
@@ -1911,7 +1911,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -30.48 44.45 270)
 				(length 5.08)
 				(name "GND"
@@ -1929,7 +1929,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -33.02 44.45 270)
 				(length 5.08)
 				(name "PB0_I2C2-SCL"
@@ -1947,7 +1947,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -35.56 44.45 270)
 				(length 5.08)
 				(name "PB1_I2C2-SDA"
@@ -1965,7 +1965,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -38.1 44.45 270)
 				(length 5.08)
 				(name "PB8_SPI-HOLD"
@@ -1983,7 +1983,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -40.64 44.45 270)
 				(length 5.08)
 				(name "PB9_SPI1-MISO"
@@ -2001,7 +2001,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -43.18 44.45 270)
 				(length 5.08)
 				(name "PB10_SPI1-MOSI"
@@ -2019,7 +2019,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -45.72 44.45 270)
 				(length 5.08)
 				(name "PB11_SPI1-CLK"
@@ -2037,7 +2037,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -48.26 44.45 270)
 				(length 5.08)
 				(name "PB12_SPI1-CS"
@@ -2055,7 +2055,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 35.56 0)
 				(length 5.08)
 				(name "TP-X1"
@@ -2073,7 +2073,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 33.02 0)
 				(length 5.08)
 				(name "TP-X2"
@@ -2091,7 +2091,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 30.48 0)
 				(length 5.08)
 				(name "TP-Y1"
@@ -2109,7 +2109,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 27.94 0)
 				(length 5.08)
 				(name "TP-Y2"
@@ -2127,7 +2127,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 25.4 0)
 				(length 5.08)
 				(name "TVOUT"
@@ -2145,7 +2145,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 22.86 0)
 				(length 5.08)
 				(name "TVIN0"
@@ -2163,7 +2163,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 20.32 0)
 				(length 5.08)
 				(name "TVIN1"
@@ -2181,7 +2181,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 17.78 0)
 				(length 5.08)
 				(name "GND"
@@ -2199,7 +2199,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 15.24 0)
 				(length 5.08)
 				(name "USB1_N"
@@ -2217,7 +2217,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 12.7 0)
 				(length 5.08)
 				(name "USB1_P"
@@ -2235,7 +2235,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 10.16 0)
 				(length 5.08)
 				(name "USB0_N"
@@ -2253,7 +2253,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 7.62 0)
 				(length 5.08)
 				(name "USB0_P"
@@ -2271,7 +2271,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 5.08 0)
 				(length 5.08)
 				(name "GND"
@@ -2289,7 +2289,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -67.31 2.54 0)
 				(length 5.08)
 				(name "LRADC"
@@ -2307,7 +2307,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -67.31 0 0)
 				(length 5.08)
 				(name "GPADC0"
@@ -2325,7 +2325,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -67.31 -2.54 0)
 				(length 5.08)
 				(name "GPADC1"
@@ -2343,7 +2343,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -67.31 -5.08 0)
 				(length 5.08)
 				(name "GND"
@@ -2361,7 +2361,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -67.31 -7.62 0)
 				(length 5.08)
 				(name "FMINL"
@@ -2379,7 +2379,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -10.16 0)
 				(length 5.08)
 				(name "FMINR"
@@ -2397,7 +2397,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -12.7 0)
 				(length 5.08)
 				(name "LINEINL"
@@ -2415,7 +2415,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -15.24 0)
 				(length 5.08)
 				(name "LINEINR"
@@ -2433,7 +2433,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -17.78 0)
 				(length 5.08)
 				(name "LINEOUTL_P"
@@ -2451,7 +2451,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -20.32 0)
 				(length 5.08)
 				(name "LINEOUTL_N"
@@ -2469,7 +2469,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -22.86 0)
 				(length 5.08)
 				(name "LINEOUTR_P"
@@ -2487,7 +2487,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -25.4 0)
 				(length 5.08)
 				(name "LINEOUTR_N"
@@ -2505,7 +2505,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -27.94 0)
 				(length 5.08)
 				(name "MBIAS"
@@ -2523,7 +2523,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -30.48 0)
 				(length 5.08)
 				(name "MICIN1_P"
@@ -2541,7 +2541,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -33.02 0)
 				(length 5.08)
 				(name "MICIN1_N"
@@ -2559,7 +2559,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -35.56 0)
 				(length 5.08)
 				(name "MICIN2_P"
@@ -2577,7 +2577,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -67.31 -38.1 0)
 				(length 5.08)
 				(name "MICIN2_N"
@@ -4742,6 +4742,571 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "MT9700"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -5.08 -5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5"
+			(at 0 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "MT9700_0_1"
+			(rectangle
+				(start -6.35 3.81)
+				(end 6.35 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "MT9700_1_1"
+			(pin input line
+				(at -8.89 2.54 0)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 0 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 -2.54 0)
+				(length 2.54)
+				(name "ISET"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 -2.54 180)
+				(length 2.54)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 2.54 180)
+				(length 2.54)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "RTL8733BUUA"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -13.97 -33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PMLIBS:RTL8733BUUA/6233E-UUB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "RTL8733BUUA_0_1"
+			(rectangle
+				(start -15.24 27.94)
+				(end 15.24 -31.75)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "RTL8733BUUA_1_1"
+			(pin power_in line
+				(at 17.78 -21.59 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 24.13 180)
+				(length 2.54)
+				(name "BT_RF"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 13.97 180)
+				(length 2.54)
+				(name "WL_RF"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 -25.4 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 7.62 0)
+				(length 2.54)
+				(name "BT_PCM_IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 3.81 0)
+				(length 2.54)
+				(name "BT_PCM_OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 0 0)
+				(length 2.54)
+				(name "BT_PCM_SYBC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -3.81 0)
+				(length 2.54)
+				(name "BT_PCM_CLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -11.43 0)
+				(length 2.54)
+				(name "BT_WAKE_HOST"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -15.24 0)
+				(length 2.54)
+				(name "HOST_WAKE_BT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 -12.7 180)
+				(length 2.54)
+				(name "VDD33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -25.4 0)
+				(length 2.54)
+				(name "USB_DM"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 -29.21 0)
+				(length 2.54)
+				(name "USB_DP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 -29.21 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 24.13 0)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 20.32 0)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -17.78 16.51 0)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 0 180)
+				(length 2.54)
+				(name "CHIP_EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "SCT2230TVBR"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4916,6 +5481,410 @@
 					)
 				)
 				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TPAZ1143-04F"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -6.35 -8.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PMLIBS:TPAZ1143-04F"
+			(at 0 -11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "TPAZ1143-04F_0_1"
+			(rectangle
+				(start -7.62 7.62)
+				(end 7.62 -7.62)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "TPAZ1143-04F_1_1"
+			(pin power_in line
+				(at -10.16 5.08 0)
+				(length 2.54)
+				(name "I/O_1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 2.54 0)
+				(length 2.54)
+				(name "I/O_2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 0 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "I/O_4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -10.16 -5.08 0)
+				(length 2.54)
+				(name "I/O_3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 -5.08 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 0 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 5.08 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "X3225xxMSB4SI"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "X"
+			(at -5.08 -5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PMLIBS:X3225xxMSB4SI"
+			(at 0 -7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "X3225xxMSB4SI_0_1"
+			(rectangle
+				(start -6.35 5.08)
+				(end 6.35 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "X3225xxMSB4SI_1_1"
+			(pin power_in line
+				(at -8.89 2.54 0)
+				(length 2.54)
+				(name "IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 8.89 2.54 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -8.89 -1.27 0)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 8.89 -1.27 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
