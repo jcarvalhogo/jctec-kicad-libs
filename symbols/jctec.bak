@@ -4927,7 +4927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T113-S3 Li-easyedapro:IPEX-SMD_BWIPX-1-001E"
+		(property "Footprint" "jctec:IPEX-SMD_BWIPX-1-001E"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
