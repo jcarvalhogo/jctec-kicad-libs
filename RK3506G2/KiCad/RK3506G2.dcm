@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK3506G2
+D QFN-128(12.3x12.3) Microcontrollers RoHS 440 mV,,2.5 V,1200 MHz,98 dB,250 mV,62.5 ohm ,-20 25 80 
+K
+F https://opensource.rock-chips.com/images/5/51/Rockchip_RK3506G2_Datasheet_V1.3-20250811.pdf
+$ENDCMP
+#
+#End Doc Library

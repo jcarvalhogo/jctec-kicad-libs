@@ -1,0 +1,9 @@
+Manufacturer=Rockchip
+PartNumber=RK3506G2
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=129
+Version=1.1
+Released=2025-12-29 13:34:34
+Downloaded=2026-09-01 16:48:11
+3D=Y
