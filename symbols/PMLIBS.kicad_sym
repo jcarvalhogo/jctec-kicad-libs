@@ -6584,6 +6584,194 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "Crystal-25Mhz-ROHS"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "Y"
+			(at -5.08 6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Crystal-25Mhz-ROHS"
+			(at -10.16 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
+			(at -1.27 -17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/parts/componentSearch?searchTxt=Crystals%20ROHS%2025MHZ%203.2"
+			(at -1.27 -21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Crystal Clock Oscillator, DIP8-style metal package"
+			(at 1.27 -21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "Crystal Clock Oscillator"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "Oscillator*DIP*8*"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "Crystal-25Mhz-ROHS_0_1"
+			(rectangle
+				(start -5.08 5.08)
+				(end 5.08 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.905 -0.635) (xy -1.27 -0.635) (xy -1.27 0.635) (xy -0.635 0.635) (xy -0.635 -0.635) (xy 0 -0.635)
+					(xy 0 0.635) (xy 0.635 0.635) (xy 0.635 -0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "Crystal-25Mhz-ROHS_1_1"
+			(pin input line
+				(at -7.62 0 0)
+				(length 2.54)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -7.62 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 7.62 270)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "HSBB4115"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11992,7 +12180,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 20.32 10.16 0)
+			(at 1.27 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12002,7 +12190,7 @@
 			)
 		)
 		(property "Value" "RTL8201F-VB-CG"
-			(at 20.32 7.62 0)
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12011,8 +12199,8 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN_8201F-VB-CG_RTK"
-			(at 0 0 0)
+		(property "Footprint" "PMLIBS:QFN_8201F-VB-CG_RTK"
+			(at 1.27 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -12024,7 +12212,7 @@
 			)
 		)
 		(property "Datasheet" "RTL8201F-VB-CG"
-			(at 0 0 0)
+			(at 1.27 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -12081,7 +12269,7 @@
 		(symbol "RTL8201F-VB-CG_0_1"
 			(polyline
 				(pts
-					(xy 7.62 5.08) (xy 7.62 -45.72)
+					(xy -21.59 24.13) (xy -21.59 -26.67)
 				)
 				(stroke
 					(width 0.127)
@@ -12093,7 +12281,7 @@
 			)
 			(polyline
 				(pts
-					(xy 7.62 -45.72) (xy 33.02 -45.72)
+					(xy -21.59 -26.67) (xy 21.59 -26.67)
 				)
 				(stroke
 					(width 0.127)
@@ -12105,7 +12293,7 @@
 			)
 			(polyline
 				(pts
-					(xy 33.02 5.08) (xy 7.62 5.08)
+					(xy 21.59 24.13) (xy -21.59 24.13)
 				)
 				(stroke
 					(width 0.127)
@@ -12117,7 +12305,7 @@
 			)
 			(polyline
 				(pts
-					(xy 33.02 -45.72) (xy 33.02 5.08)
+					(xy 21.59 -26.67) (xy 21.59 24.13)
 				)
 				(stroke
 					(width 0.127)
@@ -12128,7 +12316,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 0 0)
+				(at -29.21 8.89 0)
 				(length 7.62)
 				(name "RSET"
 					(effects
@@ -12146,7 +12334,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -2.54 0)
+				(at -29.21 6.35 0)
 				(length 7.62)
 				(name "AVDD10OUT"
 					(effects
@@ -12164,7 +12352,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -5.08 0)
+				(at -29.21 3.81 0)
 				(length 7.62)
 				(name "MDI+[0]"
 					(effects
@@ -12182,7 +12370,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -7.62 0)
+				(at -29.21 1.27 0)
 				(length 7.62)
 				(name "MDI-[0]"
 					(effects
@@ -12200,7 +12388,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -10.16 0)
+				(at -29.21 -1.27 0)
 				(length 7.62)
 				(name "MDI+[1]"
 					(effects
@@ -12218,7 +12406,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -12.7 0)
+				(at -29.21 -3.81 0)
 				(length 7.62)
 				(name "MDI-[1]"
 					(effects
@@ -12236,7 +12424,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -15.24 0)
+				(at -29.21 -6.35 0)
 				(length 7.62)
 				(name "AVDD33"
 					(effects
@@ -12254,7 +12442,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -17.78 0)
+				(at -29.21 -8.89 0)
 				(length 7.62)
 				(name "RXDV"
 					(effects
@@ -12272,7 +12460,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -20.32 0)
+				(at -8.89 -34.29 90)
 				(length 7.62)
 				(name "RXD[0]"
 					(effects
@@ -12290,7 +12478,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -22.86 0)
+				(at -6.35 -34.29 90)
 				(length 7.62)
 				(name "RXD[1]"
 					(effects
@@ -12308,7 +12496,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -25.4 0)
+				(at -3.81 -34.29 90)
 				(length 7.62)
 				(name "RXD[2]/INTB"
 					(effects
@@ -12326,7 +12514,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -27.94 0)
+				(at -1.27 -34.29 90)
 				(length 7.62)
 				(name "RXD[3]/CLK_CTL"
 					(effects
@@ -12344,7 +12532,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -30.48 0)
+				(at 1.27 -34.29 90)
 				(length 7.62)
 				(name "RXC"
 					(effects
@@ -12362,7 +12550,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -33.02 0)
+				(at 3.81 -34.29 90)
 				(length 7.62)
 				(name "DVDD33"
 					(effects
@@ -12380,7 +12568,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -35.56 0)
+				(at 6.35 -34.29 90)
 				(length 7.62)
 				(name "TXC"
 					(effects
@@ -12398,7 +12586,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -38.1 0)
+				(at 8.89 -34.29 90)
 				(length 7.62)
 				(name "TXD[0]"
 					(effects
@@ -12416,7 +12604,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -40.64 180)
+				(at 29.21 -10.16 180)
 				(length 7.62)
 				(name "TXD[1]"
 					(effects
@@ -12434,7 +12622,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -38.1 180)
+				(at 29.21 -7.62 180)
 				(length 7.62)
 				(name "TXD[2]"
 					(effects
@@ -12452,7 +12640,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -35.56 180)
+				(at 29.21 -5.08 180)
 				(length 7.62)
 				(name "TXD[3]"
 					(effects
@@ -12470,7 +12658,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -33.02 180)
+				(at 29.21 -2.54 180)
 				(length 7.62)
 				(name "TXEN"
 					(effects
@@ -12488,7 +12676,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -30.48 180)
+				(at 29.21 0 180)
 				(length 7.62)
 				(name "PHYRSTB"
 					(effects
@@ -12506,7 +12694,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -27.94 180)
+				(at 29.21 2.54 180)
 				(length 7.62)
 				(name "MDC"
 					(effects
@@ -12524,7 +12712,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -25.4 180)
+				(at 29.21 5.08 180)
 				(length 7.62)
 				(name "MDIO"
 					(effects
@@ -12542,25 +12730,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -22.86 180)
-				(length 7.62)
-				(name "MIIB"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 40.64 -20.32 180)
+				(at 8.89 31.75 270)
 				(length 7.62)
 				(name "LED1/PHYAD[1]"
 					(effects
@@ -12578,7 +12748,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -17.78 180)
+				(at 6.35 31.75 270)
 				(length 7.62)
 				(name "CRS/CRS_DV"
 					(effects
@@ -12596,7 +12766,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -15.24 180)
+				(at 3.81 31.75 270)
 				(length 7.62)
 				(name "COL"
 					(effects
@@ -12614,7 +12784,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -12.7 180)
+				(at 1.27 31.75 270)
 				(length 7.62)
 				(name "RXER/FXEN"
 					(effects
@@ -12632,7 +12802,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -10.16 180)
+				(at -1.27 31.75 270)
 				(length 7.62)
 				(name "DVDD10OUT"
 					(effects
@@ -12650,7 +12820,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -7.62 180)
+				(at -3.81 31.75 270)
 				(length 7.62)
 				(name "AVDD33"
 					(effects
@@ -12668,7 +12838,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -5.08 180)
+				(at -6.35 31.75 270)
 				(length 7.62)
 				(name "CKXTAL1"
 					(effects
@@ -12686,7 +12856,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -2.54 180)
+				(at -8.89 31.75 270)
 				(length 7.62)
 				(name "CKXTAL2"
 					(effects
@@ -12703,17 +12873,19 @@
 					)
 				)
 			)
+		)
+		(symbol "RTL8201F-VB-CG_1_1"
 			(pin unspecified line
-				(at 40.64 0 180)
+				(at 29.21 7.62 180)
 				(length 7.62)
-				(name "GND"
+				(name "LED0/PHYAD[0]/PMEB"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "33"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
