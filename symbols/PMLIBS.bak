@@ -9266,7 +9266,7 @@
 			)
 		)
 		(symbol "LCD_SDT07002N-40_1_1"
-			(pin input line
+			(pin passive line
 				(at -12.7 48.26 0)
 				(length 7.62)
 				(name "VLED-"
@@ -9284,7 +9284,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 45.72 0)
 				(length 7.62)
 				(name "VLED+"
@@ -9302,7 +9302,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 43.18 0)
 				(length 7.62)
 				(name "GND"
@@ -9320,7 +9320,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 40.64 0)
 				(length 7.62)
 				(name "Vcc"
@@ -9338,7 +9338,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 38.1 0)
 				(length 7.62)
 				(name "R0"
@@ -9356,7 +9356,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 35.56 0)
 				(length 7.62)
 				(name "R1"
@@ -9374,7 +9374,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 33.02 0)
 				(length 7.62)
 				(name "R2"
@@ -9392,7 +9392,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 30.48 0)
 				(length 7.62)
 				(name "R3"
@@ -9410,7 +9410,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 27.94 0)
 				(length 7.62)
 				(name "R4"
@@ -9428,7 +9428,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 25.4 0)
 				(length 7.62)
 				(name "R5"
@@ -9446,7 +9446,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 22.86 0)
 				(length 7.62)
 				(name "R6"
@@ -9464,7 +9464,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 20.32 0)
 				(length 7.62)
 				(name "R7"
@@ -9482,7 +9482,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 17.78 0)
 				(length 7.62)
 				(name "G0"
@@ -9500,7 +9500,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 15.24 0)
 				(length 7.62)
 				(name "G1"
@@ -9518,7 +9518,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 12.7 0)
 				(length 7.62)
 				(name "G2"
@@ -9536,7 +9536,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 10.16 0)
 				(length 7.62)
 				(name "G3"
@@ -9554,7 +9554,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 7.62 0)
 				(length 7.62)
 				(name "G4"
@@ -9572,7 +9572,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 5.08 0)
 				(length 7.62)
 				(name "G5"
@@ -9590,7 +9590,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 2.54 0)
 				(length 7.62)
 				(name "G6"
@@ -9608,7 +9608,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 0 0)
 				(length 7.62)
 				(name "G7"
@@ -9626,7 +9626,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -2.54 0)
 				(length 7.62)
 				(name "B0"
@@ -9644,7 +9644,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -5.08 0)
 				(length 7.62)
 				(name "B1"
@@ -9662,7 +9662,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -7.62 0)
 				(length 7.62)
 				(name "B2"
@@ -9680,7 +9680,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -10.16 0)
 				(length 7.62)
 				(name "B3"
@@ -9698,7 +9698,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -12.7 0)
 				(length 7.62)
 				(name "B4"
@@ -9716,7 +9716,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -15.24 0)
 				(length 7.62)
 				(name "B5"
@@ -9734,7 +9734,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -17.78 0)
 				(length 7.62)
 				(name "B6"
@@ -9752,7 +9752,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -20.32 0)
 				(length 7.62)
 				(name "B7"
@@ -9770,7 +9770,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -22.86 0)
 				(length 7.62)
 				(name "DGND"
@@ -9788,7 +9788,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -25.4 0)
 				(length 7.62)
 				(name "CLK"
@@ -9806,7 +9806,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -27.94 0)
 				(length 7.62)
 				(name "DISP"
@@ -9824,7 +9824,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -30.48 0)
 				(length 7.62)
 				(name "HSYNC"
@@ -9842,7 +9842,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -33.02 0)
 				(length 7.62)
 				(name "VSYNC"
@@ -9860,7 +9860,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -35.56 0)
 				(length 7.62)
 				(name "DE"
@@ -9878,7 +9878,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -38.1 0)
 				(length 7.62)
 				(name "NC"
@@ -9896,7 +9896,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -40.64 0)
 				(length 7.62)
 				(name "GND"
@@ -9914,7 +9914,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -43.18 0)
 				(length 7.62)
 				(name "X_R"
@@ -9932,7 +9932,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -45.72 0)
 				(length 7.62)
 				(name "Y_D"
@@ -9950,7 +9950,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -48.26 0)
 				(length 7.62)
 				(name "X_L"
@@ -9968,7 +9968,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -50.8 0)
 				(length 7.62)
 				(name "Y_U"
@@ -9986,7 +9986,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -55.88 0)
 				(length 7.62)
 				(name "MP"
@@ -10004,7 +10004,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -12.7 -58.42 0)
 				(length 7.62)
 				(name "MP"
@@ -15931,7 +15931,7 @@
 			)
 		)
 		(symbol "SCT2230TVBR_1_1"
-			(pin power_in line
+			(pin passive line
 				(at -8.89 2.54 0)
 				(length 2.54)
 				(name "GND"
@@ -15949,7 +15949,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin passive line
 				(at -8.89 0 0)
 				(length 2.54)
 				(name "SW"
@@ -15967,7 +15967,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -8.89 -2.54 0)
 				(length 2.54)
 				(name "VIN"
@@ -16648,7 +16648,7 @@
 			)
 		)
 		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11006_1x06-1MP_P0.5mm_Horizontal"
-			(at 0 0 0)
+			(at 2.54 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

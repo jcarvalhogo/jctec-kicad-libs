@@ -29790,7 +29790,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -22.86 2.54 0)
 				(length 2.54)
 				(name "#CS"
@@ -29808,7 +29808,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -22.86 0 0)
 				(length 2.54)
 				(name "DO/IO1"
@@ -29826,7 +29826,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -22.86 -2.54 0)
 				(length 2.54)
 				(name "#WP/IO2"
@@ -29844,7 +29844,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at -22.86 -5.08 0)
 				(length 2.54)
 				(name "GND"
@@ -29862,7 +29862,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "DI/IO0"
@@ -29880,7 +29880,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "CLK"
@@ -29898,7 +29898,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "#HOLD/IO3"
@@ -29916,7 +29916,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VCC"
